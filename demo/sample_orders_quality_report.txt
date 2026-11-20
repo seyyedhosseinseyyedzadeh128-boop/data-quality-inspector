@@ -1,0 +1,21 @@
+DATA QUALITY REPORT
+File type: XLSX
+Settings: XLSX
+Rows: 100
+Columns: 7
+Missing cells: 5
+Duplicate rows after first: 3
+Cells with edge whitespace: 4
+Column counts (column names omitted):
+Column 1: missing=0, whitespace=0
+Column 2: missing=1, whitespace=2
+Column 3: missing=1, whitespace=1
+Column 4: missing=1, whitespace=0
+Column 5: missing=1, whitespace=0
+Column 6: missing=0, whitespace=0
+Column 7: missing=1, whitespace=1
+
+Empty fields/cells are missing; NULL, NA, 0 and whitespace-only text are not.
+Duplicate comparison uses exact parsed types and values; missing values compare equal.
+Formula text is not evaluated. Excel display formatting is not preserved.
+Worksheet used dimensions define the table. The entire table is loaded into memory.
